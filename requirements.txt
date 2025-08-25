@@ -1,0 +1,25 @@
+# Core ML libraries
+ultralytics>=8.0.0
+torch>=1.13.0
+torchvision>=0.14.0
+
+# Computer Vision
+opencv-python>=4.8.0
+Pillow>=9.5.0
+
+# Data manipulation
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Labeling tools
+labelimg>=1.8.6
+
+# Jupyter for experimentation
+jupyter>=1.0.0
+ipython>=8.0.0
+
+# Progress bars
+tqdm>=4.65.0
